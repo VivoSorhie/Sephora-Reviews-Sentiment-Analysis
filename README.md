@@ -6,6 +6,23 @@ A deep dive into 100,000+ customer reviews to quantify financial risk and drive 
 
 ---
 
+## Quick Navigation
+
+- [Project Overview](#-project-overview)
+- [Tech Stack](#️-tech-stack)
+- [Methodology](#-methodology)
+- [Model Performance](#-model-performance)
+  - [Model Validation (Sanity Checks)](#model-validation-sanity-checks)
+- [Key Findings & Actionable Insights](#-key-findings--actionable-insights)
+  - [1. Strategic Risk Matrix](#1-strategic-risk-matrix-diagnosing-product-failures)
+  - [2. Financial Risk by Customer Concerns](#2-financial-risk-by-customer-concerns)
+  - [3. The Financial Engine](#3-the-financial-engine-mid-range-is-the-market-leader)
+  - [4. The Myth of Price vs. Quality](#4-the-myth-of-price-vs-quality-is-busted)
+  - [5. Ingredient Connection](#5-ingredient-connection-data-driven-formulation)
+- [How to Run This Project](#-how-to-run-this-project)
+
+---
+
 ## Project Overview
 
 This project transforms unstructured Sephora customer reviews into a powerful strategic asset. The primary objective was to move beyond simple star ratings and use Natural Language Processing (NLP) to understand the *why* behind customer satisfaction and dissatisfaction.
