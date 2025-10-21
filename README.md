@@ -113,7 +113,4 @@ This project transforms unstructured Sephora customer reviews into a powerful st
 
 ---
 
-## 🚀 How to Run This Project
-1. Clone the repository:
-```bash
-git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repo-name].git
+
