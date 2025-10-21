@@ -121,7 +121,7 @@ A model this accurate requires rigorous validation.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/VivoSorhie/Sephora-Reviews-Sentiment-Analysis.git
+    https://github.com/VivoSorhie/Sephora-Reviews-Sentiment-Analysis.git
     ```
 
 2.  **Install Dependencies:**
